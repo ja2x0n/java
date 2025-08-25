@@ -1,0 +1,18 @@
+package sec02.exam01;
+
+public class intergerLiteralExample {
+
+	public static void main(String[] args) {
+	int var 1 = 0b1011;
+	int var 2 = 0206;
+	int var 3 = 365;
+	int var 4 = 0xB3;
+	
+	System.out.println("var1:" + var 1);
+	System.out.println("var2:" + var 2);
+	System.out.println("var3:" + var 3);
+	System.out.println("var4:" + var 4);
+
+	}
+
+}
