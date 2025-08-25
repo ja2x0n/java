@@ -23,8 +23,6 @@ public class PromotionExample {
 		double doubleValue = floatValue;
 		System.out.println("doubleValue: " + doubleValue);
 		
-		int a = 0;
-		
 		
 		
 
